@@ -1,5 +1,4 @@
 import mongo_connection
-
 def ask_option_menu():
     print(' 1. Revisar historial de tono promedio\n'
           ' 2. Revisar...')
